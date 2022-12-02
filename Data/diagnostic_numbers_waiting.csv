@@ -1,0 +1,956 @@
+Diagnostic,date,number,metric
+Other,2006-01-01,195787,Number waiting 6+ weeks for diagnostic
+Other,2006-02-01,192479,Number waiting 6+ weeks for diagnostic
+Other,2006-03-01,194625,Number waiting 6+ weeks for diagnostic
+Other,2006-04-01,193305,Number waiting 6+ weeks for diagnostic
+Other,2006-05-01,187014,Number waiting 6+ weeks for diagnostic
+Other,2006-06-01,179859,Number waiting 6+ weeks for diagnostic
+Other,2006-07-01,175435,Number waiting 6+ weeks for diagnostic
+Other,2006-08-01,181827,Number waiting 6+ weeks for diagnostic
+Other,2006-09-01,174761,Number waiting 6+ weeks for diagnostic
+Other,2006-10-01,205856,Number waiting 6+ weeks for diagnostic
+Other,2006-11-01,194988,Number waiting 6+ weeks for diagnostic
+Other,2006-12-01,205037,Number waiting 6+ weeks for diagnostic
+Other,2007-01-01,181566,Number waiting 6+ weeks for diagnostic
+Other,2007-02-01,151922,Number waiting 6+ weeks for diagnostic
+Other,2007-03-01,138750,Number waiting 6+ weeks for diagnostic
+Other,2007-04-01,137959,Number waiting 6+ weeks for diagnostic
+Other,2007-05-01,128560,Number waiting 6+ weeks for diagnostic
+Other,2007-06-01,124056,Number waiting 6+ weeks for diagnostic
+Other,2007-07-01,109405,Number waiting 6+ weeks for diagnostic
+Other,2007-08-01,101299,Number waiting 6+ weeks for diagnostic
+Other,2007-09-01,81901,Number waiting 6+ weeks for diagnostic
+Other,2007-10-01,65232,Number waiting 6+ weeks for diagnostic
+Other,2007-11-01,50748,Number waiting 6+ weeks for diagnostic
+Other,2007-12-01,43552,Number waiting 6+ weeks for diagnostic
+Other,2008-01-01,31417,Number waiting 6+ weeks for diagnostic
+Other,2008-02-01,14912,Number waiting 6+ weeks for diagnostic
+Other,2008-03-01,5788,Number waiting 6+ weeks for diagnostic
+Other,2008-04-01,5758,Number waiting 6+ weeks for diagnostic
+Other,2008-05-01,5238,Number waiting 6+ weeks for diagnostic
+Other,2008-06-01,4556,Number waiting 6+ weeks for diagnostic
+Other,2008-07-01,6472,Number waiting 6+ weeks for diagnostic
+Other,2008-08-01,5807,Number waiting 6+ weeks for diagnostic
+Other,2008-09-01,3626,Number waiting 6+ weeks for diagnostic
+Other,2008-10-01,3601,Number waiting 6+ weeks for diagnostic
+Other,2008-11-01,2720,Number waiting 6+ weeks for diagnostic
+Other,2008-12-01,2828,Number waiting 6+ weeks for diagnostic
+Other,2009-01-01,2890,Number waiting 6+ weeks for diagnostic
+Other,2009-02-01,1717,Number waiting 6+ weeks for diagnostic
+Other,2009-03-01,1519,Number waiting 6+ weeks for diagnostic
+Other,2009-04-01,1797,Number waiting 6+ weeks for diagnostic
+Other,2009-05-01,1892,Number waiting 6+ weeks for diagnostic
+Other,2009-06-01,1722,Number waiting 6+ weeks for diagnostic
+Other,2009-07-01,1569,Number waiting 6+ weeks for diagnostic
+Other,2009-08-01,1198,Number waiting 6+ weeks for diagnostic
+Other,2009-09-01,968,Number waiting 6+ weeks for diagnostic
+Other,2009-10-01,775,Number waiting 6+ weeks for diagnostic
+Other,2009-11-01,678,Number waiting 6+ weeks for diagnostic
+Other,2009-12-01,1408,Number waiting 6+ weeks for diagnostic
+Other,2010-01-01,1650,Number waiting 6+ weeks for diagnostic
+Other,2010-02-01,1030,Number waiting 6+ weeks for diagnostic
+Other,2010-03-01,1395,Number waiting 6+ weeks for diagnostic
+Other,2010-04-01,1758,Number waiting 6+ weeks for diagnostic
+Other,2010-05-01,1639,Number waiting 6+ weeks for diagnostic
+Other,2010-06-01,1172,Number waiting 6+ weeks for diagnostic
+Other,2010-07-01,1292,Number waiting 6+ weeks for diagnostic
+Other,2010-08-01,1709,Number waiting 6+ weeks for diagnostic
+Other,2010-09-01,1564,Number waiting 6+ weeks for diagnostic
+Other,2010-10-01,1714,Number waiting 6+ weeks for diagnostic
+Other,2010-11-01,2354,Number waiting 6+ weeks for diagnostic
+Other,2010-12-01,3724,Number waiting 6+ weeks for diagnostic
+Other,2011-01-01,3477,Number waiting 6+ weeks for diagnostic
+Other,2011-02-01,2734,Number waiting 6+ weeks for diagnostic
+Other,2011-03-01,3790,Number waiting 6+ weeks for diagnostic
+Other,2011-04-01,4593,Number waiting 6+ weeks for diagnostic
+Other,2011-05-01,4801,Number waiting 6+ weeks for diagnostic
+Other,2011-06-01,4130,Number waiting 6+ weeks for diagnostic
+Other,2011-07-01,3460,Number waiting 6+ weeks for diagnostic
+Other,2011-08-01,3356,Number waiting 6+ weeks for diagnostic
+Other,2011-09-01,2325,Number waiting 6+ weeks for diagnostic
+Other,2011-10-01,2190,Number waiting 6+ weeks for diagnostic
+Other,2011-11-01,1727,Number waiting 6+ weeks for diagnostic
+Other,2011-12-01,2490,Number waiting 6+ weeks for diagnostic
+Other,2012-01-01,2601,Number waiting 6+ weeks for diagnostic
+Other,2012-02-01,2111,Number waiting 6+ weeks for diagnostic
+Other,2012-03-01,1255,Number waiting 6+ weeks for diagnostic
+Other,2012-04-01,1504,Number waiting 6+ weeks for diagnostic
+Other,2012-05-01,1341,Number waiting 6+ weeks for diagnostic
+Other,2012-06-01,1510,Number waiting 6+ weeks for diagnostic
+Other,2012-07-01,1434,Number waiting 6+ weeks for diagnostic
+Other,2012-08-01,1555,Number waiting 6+ weeks for diagnostic
+Other,2012-09-01,1003,Number waiting 6+ weeks for diagnostic
+Other,2012-10-01,755,Number waiting 6+ weeks for diagnostic
+Other,2012-11-01,1324,Number waiting 6+ weeks for diagnostic
+Other,2012-12-01,1855,Number waiting 6+ weeks for diagnostic
+Other,2013-01-01,2129,Number waiting 6+ weeks for diagnostic
+Other,2013-02-01,1594,Number waiting 6+ weeks for diagnostic
+Other,2013-03-01,2149,Number waiting 6+ weeks for diagnostic
+Other,2013-04-01,1841,Number waiting 6+ weeks for diagnostic
+Other,2013-05-01,2041,Number waiting 6+ weeks for diagnostic
+Other,2013-06-01,2245,Number waiting 6+ weeks for diagnostic
+Other,2013-07-01,2468,Number waiting 6+ weeks for diagnostic
+Other,2013-08-01,2159,Number waiting 6+ weeks for diagnostic
+Other,2013-09-01,1750,Number waiting 6+ weeks for diagnostic
+Other,2013-10-01,1611,Number waiting 6+ weeks for diagnostic
+Other,2013-11-01,1466,Number waiting 6+ weeks for diagnostic
+Other,2013-12-01,2275,Number waiting 6+ weeks for diagnostic
+Other,2014-01-01,2713,Number waiting 6+ weeks for diagnostic
+Other,2014-02-01,1982,Number waiting 6+ weeks for diagnostic
+Other,2014-03-01,2683,Number waiting 6+ weeks for diagnostic
+Other,2014-04-01,4136,Number waiting 6+ weeks for diagnostic
+Other,2014-05-01,4438,Number waiting 6+ weeks for diagnostic
+Other,2014-06-01,3752,Number waiting 6+ weeks for diagnostic
+Other,2014-07-01,3105,Number waiting 6+ weeks for diagnostic
+Other,2014-08-01,3779,Number waiting 6+ weeks for diagnostic
+Other,2014-09-01,3245,Number waiting 6+ weeks for diagnostic
+Other,2014-10-01,2994,Number waiting 6+ weeks for diagnostic
+Other,2014-11-01,3041,Number waiting 6+ weeks for diagnostic
+Other,2014-12-01,4232,Number waiting 6+ weeks for diagnostic
+Other,2015-01-01,4779,Number waiting 6+ weeks for diagnostic
+Other,2015-02-01,2979,Number waiting 6+ weeks for diagnostic
+Other,2015-03-01,2977,Number waiting 6+ weeks for diagnostic
+Other,2015-04-01,3427,Number waiting 6+ weeks for diagnostic
+Other,2015-05-01,2918,Number waiting 6+ weeks for diagnostic
+Other,2015-06-01,3031,Number waiting 6+ weeks for diagnostic
+Other,2015-07-01,3318,Number waiting 6+ weeks for diagnostic
+Other,2015-08-01,4018,Number waiting 6+ weeks for diagnostic
+Other,2015-09-01,3936,Number waiting 6+ weeks for diagnostic
+Other,2015-10-01,3051,Number waiting 6+ weeks for diagnostic
+Other,2015-11-01,2879,Number waiting 6+ weeks for diagnostic
+Other,2015-12-01,4347,Number waiting 6+ weeks for diagnostic
+Other,2016-01-01,4044,Number waiting 6+ weeks for diagnostic
+Other,2016-02-01,3026,Number waiting 6+ weeks for diagnostic
+Other,2016-03-01,3571,Number waiting 6+ weeks for diagnostic
+Other,2016-04-01,3677,Number waiting 6+ weeks for diagnostic
+Other,2016-05-01,3448,Number waiting 6+ weeks for diagnostic
+Other,2016-06-01,3745,Number waiting 6+ weeks for diagnostic
+Other,2016-07-01,3183,Number waiting 6+ weeks for diagnostic
+Other,2016-08-01,3750,Number waiting 6+ weeks for diagnostic
+Other,2016-09-01,4411,Number waiting 6+ weeks for diagnostic
+Other,2016-10-01,3000,Number waiting 6+ weeks for diagnostic
+Other,2016-11-01,2229,Number waiting 6+ weeks for diagnostic
+Other,2016-12-01,3146,Number waiting 6+ weeks for diagnostic
+Other,2017-01-01,3676,Number waiting 6+ weeks for diagnostic
+Other,2017-02-01,2812,Number waiting 6+ weeks for diagnostic
+Other,2017-03-01,3063,Number waiting 6+ weeks for diagnostic
+Other,2017-04-01,4707,Number waiting 6+ weeks for diagnostic
+Other,2017-05-01,4759,Number waiting 6+ weeks for diagnostic
+Other,2017-06-01,4844,Number waiting 6+ weeks for diagnostic
+Other,2017-07-01,5071,Number waiting 6+ weeks for diagnostic
+Other,2017-08-01,5544,Number waiting 6+ weeks for diagnostic
+Other,2017-09-01,5356,Number waiting 6+ weeks for diagnostic
+Other,2017-10-01,4622,Number waiting 6+ weeks for diagnostic
+Other,2017-11-01,4625,Number waiting 6+ weeks for diagnostic
+Other,2017-12-01,5363,Number waiting 6+ weeks for diagnostic
+Other,2018-01-01,5832,Number waiting 6+ weeks for diagnostic
+Other,2018-02-01,4446,Number waiting 6+ weeks for diagnostic
+Other,2018-03-01,5245,Number waiting 6+ weeks for diagnostic
+Other,2018-04-01,5253,Number waiting 6+ weeks for diagnostic
+Other,2018-05-01,5173,Number waiting 6+ weeks for diagnostic
+Other,2018-06-01,5436,Number waiting 6+ weeks for diagnostic
+Other,2018-07-01,5057,Number waiting 6+ weeks for diagnostic
+Other,2018-08-01,5587,Number waiting 6+ weeks for diagnostic
+Other,2018-09-01,5056,Number waiting 6+ weeks for diagnostic
+Other,2018-10-01,5034,Number waiting 6+ weeks for diagnostic
+Other,2018-11-01,5018,Number waiting 6+ weeks for diagnostic
+Other,2018-12-01,7350,Number waiting 6+ weeks for diagnostic
+Other,2019-01-01,8097,Number waiting 6+ weeks for diagnostic
+Other,2019-02-01,6271,Number waiting 6+ weeks for diagnostic
+Other,2019-03-01,7816,Number waiting 6+ weeks for diagnostic
+Other,2019-04-01,10227,Number waiting 6+ weeks for diagnostic
+Other,2019-05-01,11637,Number waiting 6+ weeks for diagnostic
+Other,2019-06-01,9703,Number waiting 6+ weeks for diagnostic
+Other,2019-07-01,8412,Number waiting 6+ weeks for diagnostic
+Other,2019-08-01,10151,Number waiting 6+ weeks for diagnostic
+Other,2019-09-01,8612,Number waiting 6+ weeks for diagnostic
+Other,2019-10-01,7015,Number waiting 6+ weeks for diagnostic
+Other,2019-11-01,6385,Number waiting 6+ weeks for diagnostic
+Other,2019-12-01,9457,Number waiting 6+ weeks for diagnostic
+Other,2020-01-01,10238,Number waiting 6+ weeks for diagnostic
+Other,2020-02-01,6218,Number waiting 6+ weeks for diagnostic
+Other,2020-03-01,18715,Number waiting 6+ weeks for diagnostic
+Other,2020-04-01,113671,Number waiting 6+ weeks for diagnostic
+Other,2020-05-01,148694,Number waiting 6+ weeks for diagnostic
+Other,2020-06-01,147099,Number waiting 6+ weeks for diagnostic
+Other,2020-07-01,139125,Number waiting 6+ weeks for diagnostic
+Other,2020-08-01,132193,Number waiting 6+ weeks for diagnostic
+Other,2020-09-01,116798,Number waiting 6+ weeks for diagnostic
+Other,2020-10-01,102032,Number waiting 6+ weeks for diagnostic
+Other,2020-11-01,92733,Number waiting 6+ weeks for diagnostic
+Other,2020-12-01,96853,Number waiting 6+ weeks for diagnostic
+Other,2021-01-01,101838,Number waiting 6+ weeks for diagnostic
+Other,2021-02-01,94705,Number waiting 6+ weeks for diagnostic
+Other,2021-03-01,89964,Number waiting 6+ weeks for diagnostic
+Other,2021-04-01,91659,Number waiting 6+ weeks for diagnostic
+Other,2021-05-01,89355,Number waiting 6+ weeks for diagnostic
+Other,2021-06-01,93060,Number waiting 6+ weeks for diagnostic
+Other,2021-07-01,99091,Number waiting 6+ weeks for diagnostic
+Other,2021-08-01,110094,Number waiting 6+ weeks for diagnostic
+Other,2021-09-01,110193,Number waiting 6+ weeks for diagnostic
+Other,2021-10-01,106811,Number waiting 6+ weeks for diagnostic
+Other,2021-11-01,106960,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-01-01,87808,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-02-01,79586,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-03-01,76998,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-04-01,78019,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-05-01,73318,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-06-01,71194,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-07-01,66897,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-08-01,65720,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-09-01,62054,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-10-01,56869,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-11-01,54600,Number waiting 6+ weeks for diagnostic
+Endoscopies,2006-12-01,57718,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-01-01,54712,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-02-01,42945,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-03-01,34289,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-04-01,36198,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-05-01,31729,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-06-01,28532,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-07-01,25862,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-08-01,22498,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-09-01,20141,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-10-01,18420,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-11-01,15733,Number waiting 6+ weeks for diagnostic
+Endoscopies,2007-12-01,16780,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-01-01,15224,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-02-01,9412,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-03-01,4970,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-04-01,4278,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-05-01,4107,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-06-01,3296,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-07-01,2715,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-08-01,2433,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-09-01,1599,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-10-01,1453,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-11-01,1393,Number waiting 6+ weeks for diagnostic
+Endoscopies,2008-12-01,1602,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-01-01,1624,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-02-01,1194,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-03-01,709,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-04-01,926,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-05-01,1068,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-06-01,1352,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-07-01,1114,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-08-01,1239,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-09-01,1306,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-10-01,862,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-11-01,1104,Number waiting 6+ weeks for diagnostic
+Endoscopies,2009-12-01,1655,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-01-01,2841,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-02-01,1653,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-03-01,1391,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-04-01,1175,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-05-01,976,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-06-01,1370,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-07-01,1241,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-08-01,1830,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-09-01,1959,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-10-01,2175,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-11-01,2143,Number waiting 6+ weeks for diagnostic
+Endoscopies,2010-12-01,2957,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-01-01,4352,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-02-01,3189,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-03-01,4008,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-04-01,4800,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-05-01,6283,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-06-01,4938,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-07-01,4236,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-08-01,5048,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-09-01,4645,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-10-01,3720,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-11-01,3309,Number waiting 6+ weeks for diagnostic
+Endoscopies,2011-12-01,3317,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-01-01,3746,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-02-01,2252,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-03-01,2265,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-04-01,3230,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-05-01,2863,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-06-01,3739,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-07-01,2827,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-08-01,3135,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-09-01,2514,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-10-01,2178,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-11-01,2122,Number waiting 6+ weeks for diagnostic
+Endoscopies,2012-12-01,2339,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-01-01,3203,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-02-01,1852,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-03-01,2332,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-04-01,2037,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-05-01,1699,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-06-01,1602,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-07-01,1577,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-08-01,2001,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-09-01,1713,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-10-01,1543,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-11-01,1418,Number waiting 6+ weeks for diagnostic
+Endoscopies,2013-12-01,2155,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-01-01,2736,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-02-01,2086,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-03-01,2636,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-04-01,3427,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-05-01,3870,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-06-01,3410,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-07-01,3301,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-08-01,4425,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-09-01,4156,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-10-01,4131,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-11-01,3771,Number waiting 6+ weeks for diagnostic
+Endoscopies,2014-12-01,5523,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-01-01,6978,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-02-01,6038,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-03-01,7004,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-04-01,9279,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-05-01,8540,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-06-01,8937,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-07-01,8542,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-08-01,8294,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-09-01,7918,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-10-01,7194,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-11-01,6805,Number waiting 6+ weeks for diagnostic
+Endoscopies,2015-12-01,7895,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-01-01,7693,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-02-01,4923,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-03-01,6086,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-04-01,5807,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-05-01,4603,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-06-01,4471,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-07-01,4060,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-08-01,4666,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-09-01,4233,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-10-01,3662,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-11-01,4004,Number waiting 6+ weeks for diagnostic
+Endoscopies,2016-12-01,5589,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-01-01,5489,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-02-01,3261,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-03-01,3181,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-04-01,5342,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-05-01,5769,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-06-01,5752,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-07-01,5817,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-08-01,6409,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-09-01,6300,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-10-01,5534,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-11-01,5404,Number waiting 6+ weeks for diagnostic
+Endoscopies,2017-12-01,6179,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-01-01,6196,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-02-01,4531,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-03-01,5685,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-04-01,6218,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-05-01,6861,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-06-01,7643,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-07-01,7849,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-08-01,9095,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-09-01,8910,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-10-01,9455,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-11-01,10010,Number waiting 6+ weeks for diagnostic
+Endoscopies,2018-12-01,11445,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-01-01,12080,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-02-01,9035,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-03-01,9178,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-04-01,10665,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-05-01,11073,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-06-01,11480,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-07-01,11732,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-08-01,13919,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-09-01,12836,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-10-01,12674,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-11-01,12708,Number waiting 6+ weeks for diagnostic
+Endoscopies,2019-12-01,15100,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-01-01,16377,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-02-01,12389,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-03-01,25324,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-04-01,91849,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-05-01,120265,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-06-01,122336,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-07-01,125966,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-08-01,128220,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-09-01,123438,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-10-01,110461,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-11-01,101707,Number waiting 6+ weeks for diagnostic
+Endoscopies,2020-12-01,98419,Number waiting 6+ weeks for diagnostic
+Endoscopies,2021-01-01,103290,Number waiting 6+ weeks for diagnostic
+Endoscopies,2021-02-01,94573,Number waiting 6+ weeks for diagnostic
+Endoscopies,2021-03-01,86744,Number waiting 6+ weeks for diagnostic
+Endoscopies,2021-04-01,83140,Number waiting 6+ weeks for diagnostic
+Endoscopies,2021-05-01,75933,Number waiting 6+ weeks for diagnostic
+Endoscopies,2021-06-01,70831,Number waiting 6+ weeks for diagnostic
+Endoscopies,2021-07-01,69254,Number waiting 6+ weeks for diagnostic
+Endoscopies,2021-08-01,69652,Number waiting 6+ weeks for diagnostic
+Endoscopies,2021-09-01,66700,Number waiting 6+ weeks for diagnostic
+Endoscopies,2021-10-01,61886,Number waiting 6+ weeks for diagnostic
+Endoscopies,2021-11-01,63386,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-01-01,16837,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-02-01,11804,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-03-01,10815,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-04-01,12360,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-05-01,12493,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-06-01,12296,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-07-01,13063,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-08-01,13304,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-09-01,11522,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-10-01,10525,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-11-01,9554,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2006-12-01,12223,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-01-01,11548,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-02-01,7245,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-03-01,6490,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-04-01,7108,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-05-01,5927,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-06-01,5347,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-07-01,4576,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-08-01,4664,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-09-01,3266,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-10-01,2439,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-11-01,1787,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2007-12-01,1961,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-01-01,1536,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-02-01,624,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-03-01,153,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-04-01,103,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-05-01,113,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-06-01,81,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-07-01,56,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-08-01,74,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-09-01,29,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-10-01,21,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-11-01,7,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2008-12-01,45,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-01-01,41,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-02-01,19,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-03-01,13,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-04-01,53,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-05-01,60,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-06-01,28,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-07-01,104,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-08-01,207,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-09-01,164,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-10-01,275,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-11-01,310,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2009-12-01,597,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-01-01,707,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-02-01,449,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-03-01,386,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-04-01,368,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-05-01,215,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-06-01,244,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-07-01,93,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-08-01,338,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-09-01,385,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-10-01,221,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-11-01,153,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2010-12-01,308,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-01-01,325,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-02-01,370,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-03-01,553,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-04-01,705,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-05-01,792,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-06-01,670,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-07-01,691,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-08-01,648,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-09-01,153,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-10-01,122,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-11-01,148,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2011-12-01,265,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-01-01,203,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-02-01,67,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-03-01,74,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-04-01,73,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-05-01,165,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-06-01,283,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-07-01,275,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-08-01,363,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-09-01,125,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-10-01,121,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-11-01,173,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2012-12-01,228,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-01-01,214,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-02-01,117,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-03-01,164,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-04-01,283,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-05-01,184,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-06-01,322,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-07-01,407,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-08-01,554,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-09-01,209,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-10-01,120,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-11-01,160,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2013-12-01,422,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-01-01,696,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-02-01,553,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-03-01,675,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-04-01,859,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-05-01,1611,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-06-01,1432,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-07-01,1104,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-08-01,685,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-09-01,410,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-10-01,435,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-11-01,487,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2014-12-01,968,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-01-01,1125,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-02-01,506,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-03-01,610,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-04-01,637,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-05-01,517,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-06-01,568,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-07-01,501,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-08-01,536,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-09-01,502,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-10-01,635,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-11-01,415,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2015-12-01,634,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-01-01,668,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-02-01,463,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-03-01,501,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-04-01,700,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-05-01,799,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-06-01,525,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-07-01,544,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-08-01,723,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-09-01,690,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-10-01,617,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-11-01,799,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2016-12-01,1101,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-01-01,1144,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-02-01,772,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-03-01,1217,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-04-01,1770,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-05-01,2084,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-06-01,2113,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-07-01,1854,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-08-01,2076,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-09-01,1762,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-10-01,1739,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-11-01,1673,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2017-12-01,1724,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-01-01,2197,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-02-01,1979,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-03-01,2815,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-04-01,3065,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-05-01,3545,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-06-01,3807,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-07-01,3535,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-08-01,3091,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-09-01,2260,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-10-01,1869,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-11-01,1898,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2018-12-01,2823,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-01-01,3293,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-02-01,2301,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-03-01,2584,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-04-01,3576,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-05-01,4522,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-06-01,4514,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-07-01,4175,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-08-01,3927,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-09-01,3870,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-10-01,3439,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-11-01,3281,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2019-12-01,4248,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-01-01,4487,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-02-01,3024,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-03-01,8739,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-04-01,48933,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-05-01,58186,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-06-01,54805,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-07-01,48471,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-08-01,42804,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-09-01,35662,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-10-01,29858,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-11-01,25137,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2020-12-01,27142,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2021-01-01,31890,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2021-02-01,25878,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2021-03-01,24399,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2021-04-01,24560,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2021-05-01,23159,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2021-06-01,24782,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2021-07-01,26398,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2021-08-01,29045,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2021-09-01,31223,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2021-10-01,33461,Number waiting 6+ weeks for diagnostic
+Computed Tomography,2021-11-01,36102,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-01-01,56956,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-02-01,45927,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-03-01,43437,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-04-01,46099,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-05-01,42921,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-06-01,38001,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-07-01,39121,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-08-01,41286,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-09-01,39631,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-10-01,35555,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-11-01,37798,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2006-12-01,42669,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-01-01,44164,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-02-01,32671,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-03-01,27628,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-04-01,27834,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-05-01,23992,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-06-01,23382,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-07-01,20289,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-08-01,19028,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-09-01,15436,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-10-01,12912,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-11-01,11469,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2007-12-01,12668,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-01-01,11587,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-02-01,4869,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-03-01,1200,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-04-01,1079,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-05-01,1567,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-06-01,1335,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-07-01,1008,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-08-01,961,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-09-01,694,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-10-01,511,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-11-01,313,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2008-12-01,634,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-01-01,652,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-02-01,337,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-03-01,166,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-04-01,217,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-05-01,316,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-06-01,333,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-07-01,560,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-08-01,579,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-09-01,579,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-10-01,431,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-11-01,435,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2009-12-01,829,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-01-01,808,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-02-01,240,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-03-01,299,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-04-01,362,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-05-01,374,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-06-01,346,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-07-01,436,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-08-01,533,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-09-01,815,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-10-01,531,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-11-01,636,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2010-12-01,2158,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-01-01,2224,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-02-01,1253,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-03-01,1666,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-04-01,2177,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-05-01,2152,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-06-01,1077,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-07-01,804,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-08-01,978,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-09-01,761,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-10-01,549,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-11-01,557,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2011-12-01,663,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-01-01,1060,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-02-01,518,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-03-01,392,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-04-01,910,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-05-01,494,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-06-01,719,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-07-01,632,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-08-01,510,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-09-01,364,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-10-01,363,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-11-01,427,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2012-12-01,1189,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-01-01,1634,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-02-01,1384,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-03-01,1845,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-04-01,2301,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-05-01,1794,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-06-01,1104,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-07-01,935,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-08-01,1298,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-09-01,1248,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-10-01,841,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-11-01,1009,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2013-12-01,1693,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-01-01,3357,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-02-01,1894,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-03-01,1919,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-04-01,2439,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-05-01,1960,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-06-01,1910,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-07-01,1863,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-08-01,1472,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-09-01,1070,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-10-01,1227,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-11-01,1208,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2014-12-01,2460,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-01-01,2954,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-02-01,1775,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-03-01,1400,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-04-01,1574,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-05-01,1718,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-06-01,1779,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-07-01,1598,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-08-01,2040,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-09-01,1947,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-10-01,1854,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-11-01,1752,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2015-12-01,2678,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-01-01,3437,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-02-01,1907,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-03-01,3148,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-04-01,2953,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-05-01,2071,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-06-01,2781,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-07-01,2546,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-08-01,2921,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-09-01,2390,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-10-01,1788,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-11-01,1762,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2016-12-01,2517,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-01-01,2590,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-02-01,1514,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-03-01,1329,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-04-01,1546,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-05-01,2220,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-06-01,2201,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-07-01,1843,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-08-01,2273,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-09-01,1849,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-10-01,1605,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-11-01,1959,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2017-12-01,2822,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-01-01,3727,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-02-01,2270,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-03-01,3657,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-04-01,5265,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-05-01,6342,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-06-01,6706,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-07-01,6406,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-08-01,5819,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-09-01,4912,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-10-01,4339,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-11-01,4318,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2018-12-01,5339,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-01-01,7673,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-02-01,4068,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-03-01,4301,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-04-01,6792,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-05-01,7202,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-06-01,6510,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-07-01,5409,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-08-01,4744,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-09-01,4868,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-10-01,4754,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-11-01,4793,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2019-12-01,6842,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-01-01,9229,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-02-01,5736,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-03-01,15710,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-04-01,79248,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-05-01,87932,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-06-01,73091,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-07-01,60065,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-08-01,55988,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-09-01,48571,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-10-01,42297,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-11-01,41412,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2020-12-01,45571,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2021-01-01,51211,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2021-02-01,40005,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2021-03-01,38185,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2021-04-01,42130,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2021-05-01,43081,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2021-06-01,50431,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2021-07-01,58341,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2021-08-01,64685,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2021-09-01,64395,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2021-10-01,63459,Number waiting 6+ weeks for diagnostic
+Magnetic Resonance Imaging,2021-11-01,67452,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-01-01,86826,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-02-01,67655,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-03-01,70411,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-04-01,74413,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-05-01,72135,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-06-01,62076,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-07-01,64472,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-08-01,69211,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-09-01,63858,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-10-01,58049,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-11-01,52287,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2006-12-01,62612,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-01-01,58833,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-02-01,42043,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-03-01,36034,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-04-01,40383,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-05-01,34764,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-06-01,29687,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-07-01,26022,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-08-01,26577,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-09-01,19308,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-10-01,15293,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-11-01,10168,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2007-12-01,11224,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-01-01,7709,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-02-01,3304,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-03-01,793,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-04-01,803,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-05-01,726,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-06-01,810,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-07-01,840,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-08-01,1221,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-09-01,742,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-10-01,633,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-11-01,465,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2008-12-01,658,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-01-01,766,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-02-01,461,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-03-01,463,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-04-01,1015,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-05-01,551,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-06-01,467,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-07-01,1021,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-08-01,791,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-09-01,357,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-10-01,205,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-11-01,489,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2009-12-01,863,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-01-01,1074,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-02-01,129,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-03-01,353,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-04-01,466,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-05-01,291,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-06-01,378,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-07-01,693,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-08-01,1474,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-09-01,928,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-10-01,759,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-11-01,451,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2010-12-01,949,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-01-01,985,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-02-01,450,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-03-01,778,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-04-01,1972,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-05-01,1891,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-06-01,1701,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-07-01,1543,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-08-01,1413,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-09-01,1705,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-10-01,1048,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-11-01,757,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2011-12-01,1246,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-01-01,1363,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-02-01,614,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-03-01,337,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-04-01,523,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-05-01,672,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-06-01,2050,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-07-01,947,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-08-01,979,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-09-01,1098,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-10-01,496,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-11-01,582,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2012-12-01,1176,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-01-01,1128,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-02-01,870,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-03-01,934,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-04-01,1326,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-05-01,1181,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-06-01,919,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-07-01,803,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-08-01,1261,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-09-01,974,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-10-01,1144,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-11-01,1457,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2013-12-01,2599,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-01-01,3676,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-02-01,3255,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-03-01,4562,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-04-01,6113,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-05-01,6839,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-06-01,5373,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-07-01,3818,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-08-01,3988,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-09-01,2417,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-10-01,1449,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-11-01,1210,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2014-12-01,2425,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-01-01,2904,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-02-01,984,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-03-01,972,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-04-01,1683,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-05-01,1450,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-06-01,1232,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-07-01,1747,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-08-01,3172,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-09-01,1946,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-10-01,1677,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-11-01,1361,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2015-12-01,1953,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-01-01,1543,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-02-01,619,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-03-01,1914,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-04-01,2563,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-05-01,1820,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-06-01,1872,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-07-01,1676,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-08-01,2048,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-09-01,1341,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-10-01,627,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-11-01,794,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2016-12-01,1740,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-01-01,1755,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-02-01,882,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-03-01,1078,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-04-01,2641,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-05-01,2344,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-06-01,2312,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-07-01,2187,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-08-01,3043,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-09-01,2650,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-10-01,2524,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-11-01,2559,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2017-12-01,3073,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-01-01,2851,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-02-01,1695,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-03-01,2834,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-04-01,4896,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-05-01,5934,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-06-01,5445,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-07-01,4727,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-08-01,4962,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-09-01,4142,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-10-01,2327,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-11-01,2648,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2018-12-01,4402,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-01-01,4354,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-02-01,2259,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-03-01,2604,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-04-01,6460,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-05-01,8796,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-06-01,7892,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-07-01,7478,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-08-01,10185,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-09-01,8616,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-10-01,6930,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-11-01,4228,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2019-12-01,6469,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-01-01,5988,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-02-01,2578,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-03-01,17261,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-04-01,135163,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-05-01,157538,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-06-01,142102,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-07-01,116170,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-08-01,113312,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-09-01,95372,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-10-01,77719,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-11-01,69190,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2020-12-01,77938,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2021-01-01,89422,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2021-02-01,72502,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2021-03-01,65769,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2021-04-01,69313,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2021-05-01,65943,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2021-06-01,67013,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2021-07-01,72145,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2021-08-01,95610,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2021-09-01,96696,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2021-10-01,91167,Number waiting 6+ weeks for diagnostic
+Non-obstetric Ultrasound,2021-11-01,90158,Number waiting 6+ weeks for diagnostic
