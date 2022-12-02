@@ -169,7 +169,7 @@ mbta_tidy <- mbta_tidy %>%
   mutate(Month = factor(Month, ordered = TRUE, levels = rev(c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"))))
 ```
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=TRUE} 
+```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=FALSE} 
 my_labels <- c("Boat", "Bus", "Commuter \nRail", "Heavy \nRail", "Light \nRail", "Private \nBus", "RIDE", "Trackless \nTrolley")
 
 ggplot(mbta_tidy, aes(x = mode , y = NrPassengers, color = mode)) +
@@ -187,7 +187,7 @@ ggsave("Plots/mbta_boxplot_1.jpg")
 
 .panel[.panel-name[Least used modes]
 
-```{r warning = FALSE, message=FALSE, echo=FALSE, fig.show='hide', eval=TRUE}
+```{r warning = FALSE, message=FALSE, echo=FALSE, fig.show='hide', eval=FALSE}
 #mbta5 contains the data only for boat, private bus, RIDE and trackless trolley.
 mbta5 <- filter(mbta_tidy, mode %in% c("Boat", "Private Bus", "RIDE", "Trackless Trolley"))
 ggplot(mbta5, aes(x = mode , y = NrPassengers, color = mode)) +
@@ -204,7 +204,7 @@ ggsave("Plots/mbta_boxplot_2.jpg")
 
 .panel[.panel-name[Most used modes]
 
-```{r warning = FALSE, message=FALSE, echo=FALSE, fig.show='hide', eval=TRUE}
+```{r warning = FALSE, message=FALSE, echo=FALSE, fig.show='hide', eval=FALSE}
 #mbta5 contains the data not boat, private bus, RIDE and trackless trolley.
 mbta6 <- filter(mbta_tidy, !mode %in% c("Boat", "Private Bus", "RIDE", "Trackless Trolley"))
 ggplot(mbta6, aes(x = mode , y = NrPassengers, color = mode)) +
@@ -230,7 +230,7 @@ class: center, middle
 .panelset[
 .panel[.panel-name[Least used modes]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=TRUE} 
+```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=FALSE} 
 mbta5 <- filter(mbta_tidy, mode %in% c("Boat", "Private Bus", "RIDE", "Trackless Trolley"))
 ggplot(mbta5, aes(x = mode , y = NrPassengers, fill = mode)) +
   geom_boxplot() +
@@ -256,7 +256,7 @@ ggsave("Plots/boxplot_least.jpg")
 
 .panel[.panel-name[Most used modes]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=TRUE} 
+```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=FALSE} 
 mbta6 <- filter(mbta_tidy, !mode %in% c("Boat", "Private Bus", "RIDE", "Trackless Trolley"))
 ggplot(mbta6, aes(x = mode , y = NrPassengers, fill = mode)) +
   geom_boxplot() +
@@ -291,7 +291,7 @@ class: center, middle
 .panelset[
 .panel[.panel-name[All modes]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=TRUE} 
+```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=FALSE} 
  ggplot(mbta_tidy, aes(x = date, y = NrPassengers, col = mode)) +
   geom_line() +
   geom_point()+
@@ -305,7 +305,7 @@ ggsave("Plots/time_plot1.jpg")
 
 .panel[.panel-name[Least used modes]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=TRUE} 
+```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=FALSE} 
 mbta5 <- filter(mbta_tidy, mode %in% c("Boat", "RIDE", "Trackless Trolley", "Private Bus"))#this selects the rows corresponding to passengers who traveled by boat, car, trackless trolley and private bus
 ggplot(mbta5, aes(x = date, y = NrPassengers, col = mode)) +
   geom_line() +
@@ -320,7 +320,7 @@ ggsave("Plots/time_plot2.jpg")
 
 .panel[.panel-name[Most used modes]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=TRUE} 
+```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=FALSE} 
 mbta5 <- filter(mbta_tidy, !mode %in% c("Boat", "RIDE", "Trackless Trolley", "Private Bus"))#this selects the rows corresponding to passengers who traveled by boat, car, trackless trolley and private bus
 ggplot(mbta5, aes(x = date, y = NrPassengers, col = mode)) +
   geom_line() +
@@ -345,7 +345,7 @@ class: center, middle
 .panelset[
 .panel[.panel-name[Least used modes]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=TRUE} 
+```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=FALSE} 
 mbta5 <- filter(mbta_tidy, mode %in% c("Boat", "RIDE", "Trackless Trolley", "Private Bus"))#this selects the rows corresponding to passengers who traveled by boat, car, trackless trolley and private bus
 ggplot(mbta5, aes(x = date, y = NrPassengers, col = mode)) +
   geom_line() +
@@ -369,7 +369,7 @@ ggsave("Plots/time_plot4.jpg")
 
 .panel[.panel-name[Most used modes]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=TRUE}
+```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=FALSE}
 mbta5 <- filter(mbta_tidy, !mode %in% c("Boat", "RIDE", "Trackless Trolley", "Private Bus"))#this selects the rows corresponding to passengers who traveled by boat, car, trackless trolley and private bus
 ggplot(mbta5, aes(x = date, y = NrPassengers, col = mode)) +
   geom_line() +
@@ -402,14 +402,14 @@ class: center, middle
 .panelset[
 .panel[.panel-name[Stacked]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE}
 data_boat_trlessTroll <- mbta_tidy %>% 
   group_by(mode, Month) %>% 
   summarize(average_nr_passengers = mean(NrPassengers)) %>%
   filter(mode %in% c("Boat", "Trackless Trolley")) 
 ```
 
-```{r boattrolley, echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=TRUE}
+```{r boattrolley, echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=FALSE}
 data_boat_trlessTroll%>%
   ggplot(aes(x = Month, y = average_nr_passengers, fill = mode)) +
   geom_bar(stat = "identity") + 
@@ -438,7 +438,7 @@ ggsave("Plots/stacked_barchart.jpg")
 
 .panel[.panel-name[Grouped]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=TRUE}
+```{r echo=FALSE, message=FALSE, warning = FALSE, fig.show='hide', eval=FALSE}
 data_boat_trlessTroll %>%
   mutate(Month = factor(Month, ordered = TRUE, levels = month.abb)) %>%
   ggplot(aes(x = Month, y = average_nr_passengers, fill = mode)) +
@@ -472,7 +472,7 @@ ggsave("Plots/grouped_barchart.jpg")
 
 #### Discuss the merits of the following barchart displaying the times (in seconds) from the men’s 100 meter final in the 2016 Olympics.
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, fig.show='hide', eval=TRUE}
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.show='hide', eval=FALSE}
 library(forcats)
 olympics_sprint_data <- read_csv("Data/olympics_sprint_data.csv")
 
@@ -537,18 +537,21 @@ class: center, middle
 
 ### Mosaic plot (using vcd package)
 
-```{r echo=FALSE, message=FALSE, warning = FALSE}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE}
 Berk_tidy2 <- read_csv("Data/BerkeleyDataTidy.csv")
 Berk_tidy2 <- Berk_tidy2 %>%
   rename(`Admission Status` = AdmissionStatus)
 ```
 
-```{r echo=FALSE, message=FALSE, warning = FALSE}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE}
 # create a contingency table
 aux2 <- xtabs(number ~ Department + `Admission Status` + Gender, data = Berk_tidy2) 
+jpeg("Plots/mosaic.jpg")
 mosaic(aux2, highlighting = "Gender", highlighting_fill = c("pink", "lightblue"))
+dev.off()
 ```
 
+.center[<img src="Plots/mosaic.jpg" width="48%">]
 
 ---
 
@@ -589,13 +592,14 @@ class: center, middle
 
 ###  Treemap
 
-```{r echo=FALSE, message=FALSE, warning = FALSE}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE}
 Berk <- Berk_tidy2 %>% 
   mutate(Department = paste("Dep", Department))
 ```
 
-```{r echo=FALSE, message=FALSE, warning = FALSE}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE}
 #library(treemap)
+jpeg("Plots/treemap.jpg")
 treemap(Berk, #Your data frame object
         index=c("Department", "Admission Status", "Gender"),  #A list of your categorical variables
         vSize = "number",  #This is your quantitative variable
@@ -605,7 +609,10 @@ treemap(Berk, #Your data frame object
         title="Admission status by department and gender at UC Berkeley", #Customize your title
         #fontsize.title = 14 #Change the font size of the title
         )
+dev.off()
 ```
+
+.center[<img src="Plots/treemap.jpg" width="48%">]
 
 ---
 
@@ -698,7 +705,7 @@ ggsave("Plots/HIV_xlog.jpg")
 
 .panel[.panel-name[Third attempt]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 aux %>% 
   ggplot(aes(x = Income, y = PrevalenceHIV, col = four_regions) ) + 
   geom_point(alpha = 0.8) + 
@@ -727,7 +734,7 @@ ggsave("Plots/HIV_third.jpg")
 .panelset[
 .panel[.panel-name[First attempt]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 #Only Africa
 aux2 <- filter(aux, four_regions == "africa")# we further filter the data to select only countries in Africa
 p_africa <- ggplot(aux2, aes(x = Income, y = PrevalenceHIV) ) + 
@@ -748,7 +755,7 @@ ggsave("Plots/HIV_africa1.jpg")
 
 .panel[.panel-name[Second attempt]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE}
 #for year 1990
 x_90 <- filter(aux2, PrevalenceHIV >= 10 & Year == "1990") #further filter the data selecting prevalence>=10 and year 1990
 #select(x_90, 1:5)
@@ -770,7 +777,7 @@ x_11 <- filter(aux2, PrevalenceHIV >= 10 & Year == "2011")
 #select(x_11, 1:5)
 ```
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 #Let us add the names of the countries with high HIV prevalence to the plots.
 #library(ggrepel)
 
@@ -790,7 +797,7 @@ ggsave("Plots/HIV_africa2.jpg")
 
 .panel[.panel-name[Third attempt]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 #Let us add the names of the countries with high HIV prevalence to the plots.
 
 p_africa + 
@@ -891,7 +898,7 @@ anim_save("Plots/africa_animation2.gif")
 .panelset[
 .panel[.panel-name[Plain scatter plot]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 # data
 data_gnq <- HIV_Inc_Cont %>%
   filter(geo == "gnq") # data for Equatorial Guinea
@@ -922,7 +929,7 @@ ggsave("Plots/connected_scatter1.jpg")
 
 .panel[.panel-name[Connected scatter plot]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 # data
 data <- HIV_Inc_Cont %>%
   filter(geo == "gnq") # data for Equatorial Guinea
@@ -960,7 +967,7 @@ ggsave("Plots/connected_scatter2.jpg")
 
 .panel[.panel-name[Connected scatter plot - focused]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 # data
 data <- HIV_Inc_Cont %>%
   filter(geo == "gnq", Year >= 2004) # data for Equatorial Guinea from 2004
@@ -1005,7 +1012,7 @@ ggsave("Plots/connected_scatter3.jpg")
 .panelset[
 .panel[.panel-name[Static]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 hiv_full <- read_csv("Data/hiv_map_data.csv")
 latest_year <- 2010
 current_continent <- "Africa"
@@ -1098,7 +1105,7 @@ anim_save("africa_hiv_anim.gif")
 
 
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE}
 label=c(
                     "Business \nenterprise",
                     "Government & UKRI",
@@ -1120,7 +1127,7 @@ source_lab <- source
 target_lab <- target
 ```
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE}
 
 for (i in 1:length(source)){
 source_lab[i] <- label[source[i]+1]
@@ -1130,7 +1137,7 @@ target_lab[i] <- label[target[i]+1]
 df <- tibble(source_lab, target_lab, value)
 ```
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 library(ggalluvial)
 
 ggplot(data = df,
@@ -1157,7 +1164,7 @@ ggsave("Plots/sankey.jpg")
 ### Net profit from sales (simulated data)
 
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 month <- month.abb
 value <- c(2000, 4000, 2000, -1500, -1000, -2500, 2000, 1000, 1200, 2100, -1000, 3000)
 df <- data.frame(x = month, y = value) 
@@ -1182,7 +1189,7 @@ ggsave("Plots/waterfall.jpg")
 .panelset[
 .panel[.panel-name[Area Plot]
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 aux2 <- read_csv("Data/diagnostic_numbers_waiting.csv")
 
 aux2 %>% 
@@ -1210,7 +1217,7 @@ ggsave("Plots/diagnostic_waiters1.jpg")
 .panel[.panel-name[Stream Plot]
 
 
-```{r echo=FALSE, message=FALSE, warning = FALSE, eval=TRUE, fig.show='hide'}
+```{r echo=FALSE, message=FALSE, warning = FALSE, eval=FALSE, fig.show='hide'}
 library(ggstream)
 
 ggplot(aux2, aes(x = date, y = number, fill = Diagnostic)) +
