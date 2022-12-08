@@ -150,9 +150,9 @@ blockquote {
 
 /*-- NHS organisation logo --*/
 .title-slide {
-  background-image:    url(../Pics/10DS-logo.png);
+  background-image:    url(../Pics/xaringan.png);
   background-position: 95% 5%;
-  background-size:     200px;
+  background-size:     50px;
 }
 
 /*-- Headings --*/
