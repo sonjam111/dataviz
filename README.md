@@ -1,6 +1,6 @@
 A data visualisation primer.
 
-presentation link <https://sonjam111.github.io/dataviz/datavaz_presentation.html>
+presentation link <https://sonjam111.github.io/dataviz/dataviz_presentation.html>
 
 Slides are in dataviz_presentation
 
